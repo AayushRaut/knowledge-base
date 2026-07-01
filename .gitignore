@@ -1,0 +1,24 @@
+# ==========================
+# OS Files
+# ==========================
+.DS_Store
+Thumbs.db
+
+# ==========================
+# Obsidian
+# ==========================
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# Cache
+.obsidian/cache/
+
+# Plugins data (optional)
+.obsidian/plugins/*/data.json
+
+# ==========================
+# Temporary
+# ==========================
+*.tmp
+*.bak
+*.swp
