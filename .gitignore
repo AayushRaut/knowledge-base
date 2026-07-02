@@ -2,19 +2,94 @@
 # OS Files
 # ==========================
 .DS_Store
+.DS_Store?
+._*
 Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
 
 # ==========================
 # Obsidian
 # ==========================
 .obsidian/workspace.json
 .obsidian/workspace-mobile.json
-
-# Cache
 .obsidian/cache/
-
-# Plugins data (optional)
 .obsidian/plugins/*/data.json
+.trash/
+
+# ==========================
+# Editors / IDEs
+# ==========================
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# ==========================
+# Python
+# ==========================
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.eggs/
+build/
+dist/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+
+# ==========================
+# Virtual environments
+# ==========================
+.venv/
+venv/
+env/
+ENV/
+.conda/
+.python-version
+
+# ==========================
+# Secrets & config
+# ==========================
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+secrets.*
+credentials.json
+
+# ==========================
+# ML / AI artifacts
+# ==========================
+*.ckpt
+*.pt
+*.pth
+*.safetensors
+*.gguf
+*.onnx
+*.h5
+*.pkl
+*.joblib
+models/checkpoints/
+data/raw/
+data/interim/
+data/processed/
+*.parquet
+wandb/
+mlruns/
+.cache/
+outputs/
+logs/
+*.log
+
+# ==========================
+# Node (docs tooling, if used)
+# ==========================
+node_modules/
 
 # ==========================
 # Temporary
@@ -22,3 +97,4 @@ Thumbs.db
 *.tmp
 *.bak
 *.swp
+*~
