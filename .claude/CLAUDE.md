@@ -83,6 +83,23 @@ is to maintain and extend *structure*, templates, and indexes.
 
 ---
 
+## Ideas, brainstorming, and the backlog
+
+Ideas and future enhancements go through [BACKLOG.md](BACKLOG.md), not directly
+into the canonical docs:
+
+1. **Record brainstorming ideas first in [BACKLOG.md](BACKLOG.md)** as `Proposed`
+   items — never edit the curriculum or standards just to capture an idea.
+2. **[MASTER_CURRICULUM.md](MASTER_CURRICULUM.md) is updated only after a backlog
+   item is `Approved`.** It stays the canonical source of truth in the meantime.
+3. **[COURSE_VISION.md](COURSE_VISION.md) remains stable** — it is not changed as
+   part of routine idea capture.
+4. **Temporary discussions must not modify the repository** unless the change is
+   explicitly approved and made through the normal process in
+   [REPOSITORY_RULES.md](REPOSITORY_RULES.md).
+
+---
+
 ## Conventions cheat-sheet
 
 | Thing | Rule |
@@ -105,3 +122,4 @@ is to maintain and extend *structure*, templates, and indexes.
 - **[STYLE_GUIDE.md](STYLE_GUIDE.md)** — how content must look and read.
 - **[REPOSITORY_RULES.md](REPOSITORY_RULES.md)** — hard constraints and structure.
 - **[ROADMAP.md](ROADMAP.md)** — what is being built and in what order.
+- **[BACKLOG.md](BACKLOG.md)** — planning-only capture of ideas and enhancements (not a source of truth).
