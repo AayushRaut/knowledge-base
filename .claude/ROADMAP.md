@@ -28,9 +28,11 @@ Give learners a solid base before AI-specific material.
 - 🟢 `01-python-languages` — **Module 1 complete** (2026-07-02): 20 lessons, 8
   exercises, 2 assignments, 3 mini projects, 1 portfolio project, 20 interview
   Q&A, 3 cheat sheets, references. See [Module 1](../01-python-languages/README.md).
-- 🔴 `02-mathematics-foundations` — linear algebra, probability, calculus
+- 🟢 `02-mathematics-foundations` — **Module 2 complete** (2026-07-02): 10 lessons,
+  7 exercises, 2 assignments, 3 mini projects, 1 portfolio project, 20 interview
+  Q&A, 3 cheat sheets, references. See [Module 2](../02-mathematics-foundations/README.md).
 - 🔴 `00-getting-started` — learning paths and FAQ
-- 🟡 First cheat sheets: Python ✅ · ML basics 🔴
+- 🟡 First cheat sheets: Python ✅ · Mathematics ✅ · ML basics 🔴
 
 ---
 

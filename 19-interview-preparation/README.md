@@ -2,22 +2,23 @@
 
 > Structured prep across roles and topics.
 
-**Status:** 🟡 Scaffolded — content in progress
+**Status:** 🟡 In progress — Python & Mathematics banks live
 **Last reviewed:** 2026-07-02
 
 ---
 
 ## 📚 Contents
 
-| # | Section | Description |
-|---|---------|-------------|
-| 1 | [`ml-concepts/`](ml-concepts/) | Ml Concepts |
-| 2 | [`deep-learning/`](deep-learning/) | Deep Learning |
-| 3 | [`llm-and-genai/`](llm-and-genai/) | LLM and GenAI |
-| 4 | [`system-design/`](system-design/) | System Design |
-| 5 | [`coding/`](coding/) | Coding |
-| 6 | [`behavioral/`](behavioral/) | Behavioral |
-| 7 | [`mock-interviews/`](mock-interviews/) | Mock Interviews |
+| # | Section | Description | Status |
+|---|---------|-------------|--------|
+| 1 | [`coding/`](coding/) | Coding — incl. [Python for AI](coding/python-for-ai-engineering.md) | 🟡 |
+| 2 | [`mathematics/`](mathematics/) | Mathematics for AI (Module 2) | 🟢 |
+| 3 | [`ml-concepts/`](ml-concepts/) | ML Concepts | 🔴 |
+| 4 | [`deep-learning/`](deep-learning/) | Deep Learning | 🔴 |
+| 5 | [`llm-and-genai/`](llm-and-genai/) | LLM and GenAI | 🔴 |
+| 6 | [`system-design/`](system-design/) | System Design | 🔴 |
+| 7 | [`behavioral/`](behavioral/) | Behavioral | 🔴 |
+| 8 | [`mock-interviews/`](mock-interviews/) | Mock Interviews | 🔴 |
 
 ---
 

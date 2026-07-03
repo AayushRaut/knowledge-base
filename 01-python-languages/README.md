@@ -75,7 +75,7 @@ Module 2 — [Mathematics for AI](../02-mathematics-foundations/README.md) (not 
 
 - 🏠 [Knowledge Base Home](../README.md)
 - 📖 [Master Curriculum](../.claude/MASTER_CURRICULUM.md) · 🗺️ [Roadmap](../.claude/ROADMAP.md)
-- 🗒️ Legacy notes: [Topics.md](Topics.md)
+- ➡️ Next: [Module 2 — Mathematics for AI](../02-mathematics-foundations/README.md)
 
 ---
 *Module 1 is content-complete. Contributions and corrections welcome per

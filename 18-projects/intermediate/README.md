@@ -1,27 +1,23 @@
-# Intermediate
+# Intermediate Projects
 
-> Part of **[Projects](../README.md)**.
+> Intermediate-level, portfolio-quality builds. Part of **[Projects](../README.md)**.
 
-**Status:** 🔴 Placeholder — not yet written
-**Last reviewed:** 2026-07-02
+**Status:** 🟡 In progress · **Last reviewed:** 2026-07-02
 
 ---
 
-## Overview
+## Projects
 
-_This folder will hold lessons, exercises, and notes on **Intermediate**._
+| Project | From module | Stack |
+|---------|-------------|-------|
+| [ML Math From Scratch](ml-math-from-scratch.md) | [02 · Mathematics for AI](../../02-mathematics-foundations/README.md) | Python, NumPy, tests |
 
-## Planned Contents
+> Smaller, module-scoped mini-projects live inside their module — see
+> [Module 2 Mini Projects](../../02-mathematics-foundations/projects/README.md).
 
-- [ ] Concept lessons (see [lesson-template](../../templates/lesson-template.md))
-- [ ] Worked exercises
-- [ ] Cheat sheet entry
-- [ ] References
+---
 
 ## Navigation
 
 - ⬆️ [Projects](../README.md)
 - 🏠 [Knowledge Base Home](../../README.md)
-
----
-*Placeholder. Add content per the [Style Guide](../../.claude/STYLE_GUIDE.md).*
