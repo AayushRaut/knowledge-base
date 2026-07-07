@@ -38,7 +38,9 @@ Give learners a solid base before AI-specific material.
 
 ## Phase 2 — Core ML & Deep Learning
 
-- 🔴 `03-machine-learning` — fundamentals → algorithms → evaluation
+- 🟢 `03-machine-learning` — **Module 3 complete** (2026-07-02): 11 lessons,
+  7 exercises, 2 assignments, 3 mini projects, 1 portfolio project, 20 interview
+  Q&A, 3 cheat sheets, references. See [Module 3](../03-machine-learning/README.md).
 - 🔴 `04-deep-learning` — neural nets → CNNs → RNNs → training
 - 🔴 Paired exercises and a beginner project
 

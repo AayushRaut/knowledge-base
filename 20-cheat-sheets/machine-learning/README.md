@@ -1,27 +1,23 @@
-# Machine Learning
+# Machine Learning Cheat Sheets
 
-> Part of **[Cheat Sheets](../README.md)**.
+> Fast-reference summaries for **[Module 3 — Machine Learning](../../03-machine-learning/README.md)**.
 
-**Status:** 🔴 Placeholder — not yet written
-**Last reviewed:** 2026-07-02
+**Status:** 🟢 Complete · **Last reviewed:** 2026-07-02
 
 ---
 
-## Overview
+## Available cheat sheets
 
-_This folder will hold lessons, exercises, and notes on **Machine Learning**._
+| Cheat Sheet | Covers |
+|-------------|--------|
+| [ML Algorithms](ml-algorithms.md) | When to use which algorithm; key hyperparameters |
+| [Model Evaluation](model-evaluation.md) | Classification & regression metrics; when to use each |
+| [scikit-learn API](scikit-learn.md) | Estimators, pipelines, model selection, persistence |
 
-## Planned Contents
-
-- [ ] Concept lessons (see [lesson-template](../../templates/lesson-template.md))
-- [ ] Worked exercises
-- [ ] Cheat sheet entry
-- [ ] References
+---
 
 ## Navigation
 
 - ⬆️ [Cheat Sheets](../README.md)
+- 📚 [Module 3 — Machine Learning](../../03-machine-learning/README.md)
 - 🏠 [Knowledge Base Home](../../README.md)
-
----
-*Placeholder. Add content per the [Style Guide](../../.claude/STYLE_GUIDE.md).*
