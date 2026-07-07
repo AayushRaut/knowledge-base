@@ -1,27 +1,23 @@
-# Deep Learning
+# Deep Learning Cheat Sheets
 
-> Part of **[Cheat Sheets](../README.md)**.
+> Fast-reference summaries for **[Module 4 — Deep Learning](../../04-deep-learning/README.md)**.
 
-**Status:** 🔴 Placeholder — not yet written
-**Last reviewed:** 2026-07-02
+**Status:** 🟢 Complete · **Last reviewed:** 2026-07-02
 
 ---
 
-## Overview
+## Available cheat sheets
 
-_This folder will hold lessons, exercises, and notes on **Deep Learning**._
+| Cheat Sheet | Covers |
+|-------------|--------|
+| [Neural Networks](neural-networks.md) | Activations, losses, initialization, layer types |
+| [PyTorch](pytorch.md) | Tensors, autograd, modules, the training loop |
+| [Training Troubleshooting](training-troubleshooting.md) | Diagnosing NaNs, over/underfitting, common fixes |
 
-## Planned Contents
-
-- [ ] Concept lessons (see [lesson-template](../../templates/lesson-template.md))
-- [ ] Worked exercises
-- [ ] Cheat sheet entry
-- [ ] References
+---
 
 ## Navigation
 
 - ⬆️ [Cheat Sheets](../README.md)
+- 📚 [Module 4 — Deep Learning](../../04-deep-learning/README.md)
 - 🏠 [Knowledge Base Home](../../README.md)
-
----
-*Placeholder. Add content per the [Style Guide](../../.claude/STYLE_GUIDE.md).*

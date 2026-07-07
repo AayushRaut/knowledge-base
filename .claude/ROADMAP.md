@@ -41,8 +41,10 @@ Give learners a solid base before AI-specific material.
 - 🟢 `03-machine-learning` — **Module 3 complete** (2026-07-02): 11 lessons,
   7 exercises, 2 assignments, 3 mini projects, 1 portfolio project, 20 interview
   Q&A, 3 cheat sheets, references. See [Module 3](../03-machine-learning/README.md).
-- 🔴 `04-deep-learning` — neural nets → CNNs → RNNs → training
-- 🔴 Paired exercises and a beginner project
+- 🟢 `04-deep-learning` — **Module 4 complete** (2026-07-02): 12 lessons,
+  7 exercises, 2 assignments, 3 mini projects, 1 portfolio project, 20 interview
+  Q&A, 3 cheat sheets, references. See [Module 4](../04-deep-learning/README.md).
+- 🟢 Paired exercises and projects shipped with Modules 3–4
 
 ---
 

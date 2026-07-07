@@ -66,7 +66,7 @@ The 11 lessons, grouped into four areas. Full index: **[lessons/README.md](lesso
 
 ## ➡️ What's next
 
-Module 4 — [Deep Learning](../04-deep-learning/README.md) (not yet written; see the [Roadmap](../.claude/ROADMAP.md)).
+Module 4 — [Deep Learning](../04-deep-learning/README.md) (🟢 complete).
 
 ---
 

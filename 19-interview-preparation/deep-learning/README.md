@@ -1,27 +1,21 @@
-# Deep Learning
+# Deep Learning — Interview Questions
 
-> Part of **[Interview Preparation](../README.md)**.
+> Deep-learning interview prep. Part of
+> **[Interview Preparation](../README.md)**.
 
-**Status:** 🔴 Placeholder — not yet written
-**Last reviewed:** 2026-07-02
+**Status:** 🟡 In progress · **Last reviewed:** 2026-07-02
 
 ---
 
-## Overview
+## Question banks
 
-_This folder will hold lessons, exercises, and notes on **Deep Learning**._
+| Bank | From module | Questions |
+|------|-------------|-----------|
+| [Deep Learning](deep-learning.md) | [04 · Deep Learning](../../04-deep-learning/README.md) | 20 Q&A (easy → hard) |
 
-## Planned Contents
-
-- [ ] Concept lessons (see [lesson-template](../../templates/lesson-template.md))
-- [ ] Worked exercises
-- [ ] Cheat sheet entry
-- [ ] References
+---
 
 ## Navigation
 
 - ⬆️ [Interview Preparation](../README.md)
 - 🏠 [Knowledge Base Home](../../README.md)
-
----
-*Placeholder. Add content per the [Style Guide](../../.claude/STYLE_GUIDE.md).*
