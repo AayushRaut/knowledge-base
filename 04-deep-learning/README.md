@@ -70,7 +70,7 @@ The 12 lessons, grouped into five areas. Full index: **[lessons/README.md](lesso
 
 ## ➡️ What's next
 
-Module 5 — [Natural Language Processing](../05-nlp/README.md) (not yet written; see the [Roadmap](../.claude/ROADMAP.md)).
+Module 5 — [Natural Language Processing](../05-nlp/README.md) (🟢 complete).
 
 ---
 

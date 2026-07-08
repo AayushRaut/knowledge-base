@@ -1,8 +1,8 @@
 # Cheat Sheets
 
-> Fast-reference summaries.
+> Fast-reference summaries, one folder per topic area.
 
-**Status:** 🟡 In progress — Python & Mathematics complete
+**Status:** 🟡 In progress — Modules 1–5 covered
 **Last reviewed:** 2026-07-02
 
 ---
@@ -13,27 +13,24 @@
 |---|---------|-------------|--------|
 | 1 | [`python/`](python/) | Python (Module 1) | 🟢 |
 | 2 | [`mathematics/`](mathematics/) | Mathematics for AI (Module 2) | 🟢 |
-| 3 | [`machine-learning/`](machine-learning/) | Machine Learning | 🔴 |
-| 4 | [`deep-learning/`](deep-learning/) | Deep Learning | 🔴 |
-| 5 | [`llm-and-genai/`](llm-and-genai/) | LLM and GenAI | 🔴 |
-| 6 | [`prompt-engineering/`](prompt-engineering/) | Prompt Engineering | 🔴 |
-| 7 | [`mlops/`](mlops/) | MLOps | 🔴 |
-| 8 | [`tools-and-cli/`](tools-and-cli/) | Tools and CLI | 🔴 |
+| 3 | [`machine-learning/`](machine-learning/) | Machine Learning (Module 3) | 🟢 |
+| 4 | [`deep-learning/`](deep-learning/) | Deep Learning (Module 4) | 🟢 |
+| 5 | [`nlp/`](nlp/) | Natural Language Processing (Module 5) | 🟢 |
+| 6 | [`llm-and-genai/`](llm-and-genai/) | LLM and GenAI | 🔴 |
+| 7 | [`prompt-engineering/`](prompt-engineering/) | Prompt Engineering | 🔴 |
+| 8 | [`mlops/`](mlops/) | MLOps | 🔴 |
+| 9 | [`tools-and-cli/`](tools-and-cli/) | Tools and CLI | 🔴 |
 
 ---
 
 ## 🎯 Scope
 
-This section covers **Cheat Sheets** within the AI Engineering Knowledge Base. Each
-subsection contains focused lessons, exercises, and references. New material
-should follow the [templates](../templates/) and the
-[Style Guide](../.claude/STYLE_GUIDE.md).
+Dense, one-page references distilled from the corresponding modules. Each sheet
+follows the [cheat-sheet template](../templates/cheat-sheet-template.md) and the
+[Style Guide](../.claude/STYLE_GUIDE.md); depth lives in the module lessons.
 
 ## 🧭 Navigation
 
 - ⬆️ [Knowledge Base Home](../README.md)
 - 🗺️ [Roadmap](../.claude/ROADMAP.md)
 - 📐 [Repository Rules](../.claude/REPOSITORY_RULES.md)
-
----
-*Placeholder index. No lesson content yet — see the [Roadmap](../.claude/ROADMAP.md).*

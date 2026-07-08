@@ -50,7 +50,9 @@ Give learners a solid base before AI-specific material.
 
 ## Phase 3 — Language & Transformers
 
-- 🔴 `05-nlp` — preprocessing, embeddings, sequence models
+- 🟢 `05-nlp` — **Module 5 complete** (2026-07-02): 11 lessons, 7 exercises,
+  2 assignments, 3 mini projects, 1 portfolio project, 20 interview Q&A,
+  3 cheat sheets, references. See [Module 5](../05-nlp/README.md).
 - 🔴 `06-transformers` — architecture, attention, variants
 - 🔴 `07-large-language-models` — tokenization, pretraining, reasoning
 
