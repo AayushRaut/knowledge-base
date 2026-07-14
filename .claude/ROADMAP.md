@@ -53,7 +53,9 @@ Give learners a solid base before AI-specific material.
 - 🟢 `05-nlp` — **Module 5 complete** (2026-07-02): 11 lessons, 7 exercises,
   2 assignments, 3 mini projects, 1 portfolio project, 20 interview Q&A,
   3 cheat sheets, references. See [Module 5](../05-nlp/README.md).
-- 🔴 `06-transformers` — architecture, attention, variants
+- 🟢 `06-transformers` — **Module 6 complete** (2026-07-02): 9 lessons,
+  7 exercises, 2 assignments, 3 mini projects, 1 portfolio project, 20 interview
+  Q&A, 3 cheat sheets, references. See [Module 6](../06-transformers/README.md).
 - 🔴 `07-large-language-models` — tokenization, pretraining, reasoning
 
 ---

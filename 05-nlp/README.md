@@ -68,7 +68,7 @@ The 11 lessons, grouped into five areas. Full index: **[lessons/README.md](lesso
 
 ## ➡️ What's next
 
-Module 6 — [Transformers](../06-transformers/README.md) (not yet written; see the [Roadmap](../.claude/ROADMAP.md)).
+Module 6 — [Transformers](../06-transformers/README.md) (🟢 complete).
 
 ---
 
